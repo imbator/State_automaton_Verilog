@@ -1,0 +1,11 @@
+
+State Machine - |state_automaton|currentState
+Name currentState.state1100110 currentState.state110011 currentState.state11001 currentState.state1100 currentState.state110 currentState.state11 currentState.state1 currentState.reset 
+currentState.reset 0 0 0 0 0 0 0 0 
+currentState.state1 0 0 0 0 0 0 1 1 
+currentState.state11 0 0 0 0 0 1 0 1 
+currentState.state110 0 0 0 0 1 0 0 1 
+currentState.state1100 0 0 0 1 0 0 0 1 
+currentState.state11001 0 0 1 0 0 0 0 1 
+currentState.state110011 0 1 0 0 0 0 0 1 
+currentState.state1100110 1 0 0 0 0 0 0 1 

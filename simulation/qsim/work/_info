@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Cvartus\Projects\Lab6_state_automaton\simulation\qsim
+vstate_automaton
+Z1 !s100 W[0nA60ChRE@f`B;Zf[ng3
+Z2 IiB[14AVM^:fZe0515I;<z3
+Z3 V0zg`7_e]?SC4D?NfE:`Bi0
+Z4 dE:\Cvartus\Projects\Lab6_state_automaton\simulation\qsim
+Z5 w1652373828
+Z6 8state_automaton.vo
+Z7 Fstate_automaton.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|state_automaton.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1652373828.967000
+Z12 !s107 state_automaton.vo|
+!s101 -O0
+vstate_automaton_vlg_check_tst
+!i10b 1
+Z13 !s100 1>lQC<75=flPIdR]0J7;M1
+Z14 IQ0XQUQeLBmJ5`R>En>JR21
+Z15 VlY^6T17fA7`Y?NcPMgDJk3
+R4
+R5
+Z16 8state_automaton.vt
+Z17 Fstate_automaton.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z18 !s108 1652373829.005000
+Z19 !s107 state_automaton.vt|
+Z20 !s90 -work|work|state_automaton.vt|
+!s101 -O0
+R10
+vstate_automaton_vlg_sample_tst
+!i10b 1
+Z21 !s100 BHO[D233o9CDNUmAC<4LD1
+Z22 IkjFc::2T5bY]5b<V<BkiB2
+Z23 VF55de59ab9U9<mBRf`WZV1
+R4
+R5
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vstate_automaton_vlg_vec_tst
+!i10b 1
+!s100 3360dN3e@WINJYZ^V82g21
+I_HKc6FnS2N66?^^A2b[SD2
+Z24 VLnd0X@KnE:X?O8LfGXSI?2
+R4
+R5
+R16
+R17
+Z25 L0 218
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
